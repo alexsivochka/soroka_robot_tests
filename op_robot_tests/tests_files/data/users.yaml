@@ -295,7 +295,7 @@ users:
         homepage: "https://zakupivli24.pb.ua/prz-stage/tender"
         email:    pbecommercetest2@ukr.net
         login:    380270010002
-        password: password0002
+        password: zakupivli24
         browser:  chrome
         position: [0, 0]
         size:     [1920, 1080]
@@ -304,7 +304,7 @@ users:
         homepage: "https://zakupivli24.pb.ua/prz-stage/tender"
         email: pbecommercetest1@ukr.net
         login: 380270010003
-        password: password0003
+        password: zakupivli24
         browser: chrome
         position: [0, 0]
         size: [1920, 1080]
