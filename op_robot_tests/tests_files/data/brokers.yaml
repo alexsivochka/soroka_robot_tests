@@ -238,6 +238,9 @@ PrivatMarket:
             tender:  [0, 20]
         openua_defense:
             tender:  [0, 110]
+        open_framework:
+             accelerator: 1440
+             tender:  [0, 37]
     keywords_file: privatmarket
     roles:
         provider:       PrivatMarket_Provider
