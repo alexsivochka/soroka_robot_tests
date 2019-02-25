@@ -64,7 +64,7 @@
 #-i pre-qualification_add_doc_to_tender
 #-i pre-qualification_add_doc_to_lot
 
--i pre-qualification_view
+# -i pre-qualification_view
 
 #-i pre-qualifications_check_by_edrpou
 
@@ -77,8 +77,8 @@
 -i pre-qualification_approve_third_bid
 -i pre-qualification_approve_qualifications
 
--i auction_url
--i auction
+#-i auction_url
+#-i auction
 
 -i qualification_add_doc_to_first_award
 -i qualification_approve_first_award
